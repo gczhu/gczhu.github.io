@@ -59,6 +59,6 @@ python3 -m http.server 8000
 
 网页布局灵感：https://hbzju.github.io/ 。站点实现为原创，未复制该网站的照片或个人文案。
 
-## 部署状态
+## 自动部署
 
-此交付包含可运行的页面和 GitHub Pages 工作流；本地文件生成不代表网站已上线。发布需要目标账号 `gczhu` 的仓库访问权限。
+网站地址：https://gczhu.github.io/ 。提交到 `main` 分支后，GitHub Actions 会运行 `build.py` 并发布生成的静态页面。部署结果可在仓库的 Actions 页面查看；也可以手动运行 `Deploy academic homepage` 工作流重新发布。
