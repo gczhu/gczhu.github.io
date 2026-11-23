@@ -1,0 +1,496 @@
+[
+  {
+    "id": "coca",
+    "title": "CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement Learning",
+    "authors": [
+      "Guangcheng Zhu",
+      "Yingfan Ma",
+      "Xing Zheng",
+      "Haobo Wang",
+      "Shenzhi Yang",
+      "Kai Tang",
+      "Zhengqing Zang",
+      "Bowen Song",
+      "Weiqiang Wang",
+      "Gang Chen"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "selected": true,
+    "topic": "Rubric-based reinforcement learning",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2610.17733"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2610.17733"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/gczhu/CoCA"
+      }
+    ],
+    "bibtex": "@article{zhu2026coca,\n  title = {CoCA: Criterion-Aware Credit Assignment for Rubric-Based Reinforcement Learning},\n  author = {Guangcheng Zhu and Yingfan Ma and Xing Zheng and Haobo Wang and Shenzhi Yang and Kai Tang and Zhengqing Zang and Bowen Song and Weiqiang Wang and Gang Chen},\n  journal = {arXiv preprint arXiv:2610.17733},\n  year = {2026},\n  eprint = {2610.17733},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/2610.17733}\n}\n",
+    "equal_contributors": [
+      "Guangcheng Zhu",
+      "Yingfan Ma"
+    ],
+    "sort_date": "2026-10-13"
+  },
+  {
+    "id": "de-venus",
+    "title": "DE-Venus: A Data-Efficient RLVR Framework for Large Language Models",
+    "authors": [
+      "Shenzhi Yang",
+      "Guangcheng Zhu",
+      "Kai Tang",
+      "Zhengqing Zang",
+      "Xing Zheng",
+      "Haobo Wang",
+      "Yingfan Ma",
+      "Bowen Song",
+      "Bo Han",
+      "Bo An",
+      "Lei Feng",
+      "Weiqiang Wang",
+      "Junbo Zhao",
+      "Gang Chen"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "selected": false,
+    "topic": "Data-efficient post-training",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2609.03324"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2609.03324"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/ZJU-DIG/DE-Venus"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2609-03324,\n  title = {DE-Venus: {A} Data-Efficient {RLVR} Framework for Large Language Models},\n  author = {Shenzhi Yang and Guangcheng Zhu and Kai Tang and Zhengqing Zang and Xing Zheng and Haobo Wang and Yingfan Ma and Bowen Song and Bo Han and Bo An and Lei Feng and Weiqiang Wang and Junbo Zhao and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2609.03324},\n  doi = {10.48550/ARXIV.2609.03324},\n  eprint = {2609.03324},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2609.03324}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-09-03"
+  },
+  {
+    "id": "deacon",
+    "title": "Dual Branch Mutual Teaching for Long-Tailed Partial Label Learning",
+    "authors": [
+      "Xiangyu Ren",
+      "Mingxuan Xia",
+      "Guangcheng Zhu",
+      "Gengyu Lyu",
+      "Haobo Wang",
+      "Peng Lu"
+    ],
+    "venue": "IJCAI",
+    "year": 2026,
+    "selected": false,
+    "topic": "Weakly supervised learning",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://doi.org/10.24963/ijcai.2026/528"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/YukiNozzzz/DEACON"
+      }
+    ],
+    "bibtex": "@inproceedings{DBLP:conf/ijcai/RenXZLWL26,\n  title = {Dual Branch Mutual Teaching for Long-Tailed Partial Label Learning},\n  author = {Xiangyu Ren and Mingxuan Xia and Guangcheng Zhu and Gengyu Lyu and Haobo Wang and Peng Lu},\n  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence and the 29th European Conference on Artificial Intelligence, {IJCAI/ECAI} 2026, Bremen, Germany, 15-21 August 2026},\n  year = {2026},\n  pages = {4741--4749},\n  publisher = {ijcai.org},\n  doi = {10.24963/IJCAI.2026/528},\n  url = {https://doi.org/10.24963/ijcai.2026/528}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-08"
+  },
+  {
+    "id": "marcon",
+    "title": "MarCon: Max-Margin Contrastive Learning for Imbalanced Domain Adaptation Semantic Segmentation",
+    "authors": [
+      "Yibo Wang",
+      "Ruikang Xu",
+      "Guangcheng Zhu",
+      "Cheng Peng",
+      "Haobo Wang",
+      "Runze Wu",
+      "Minmin Lin",
+      "Changjie Fan"
+    ],
+    "venue": "IJCAI",
+    "year": 2026,
+    "selected": false,
+    "topic": "Domain adaptation",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://doi.org/10.24963/ijcai.2026/556"
+      }
+    ],
+    "bibtex": "@inproceedings{DBLP:conf/ijcai/WangXZPWWLF26,\n  title = {MarCon: Max-Margin Contrastive Learning for Imbalanced Domain Adaptation Semantic Segmentation},\n  author = {Yibo Wang and Ruikang Xu and Guangcheng Zhu and Cheng Peng and Haobo Wang and Runze Wu and Minmin Lin and Changjie Fan},\n  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence and the 29th European Conference on Artificial Intelligence, {IJCAI/ECAI} 2026, Bremen, Germany, 15-21 August 2026},\n  year = {2026},\n  pages = {4994--5002},\n  publisher = {ijcai.org},\n  doi = {10.24963/IJCAI.2026/556},\n  url = {https://doi.org/10.24963/ijcai.2026/556}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-08"
+  },
+  {
+    "id": "cripo",
+    "title": "CriPO: Enhancing Rubric-based RL via Self-Distillation",
+    "authors": [
+      "Mingxuan Xia",
+      "Yuhang Yang",
+      "Chao Ye",
+      "Shuai Zhu",
+      "Shenzhi Yang",
+      "Guangcheng Zhu",
+      "Yuhang Zhang",
+      "Cheng Peng",
+      "Haobo Wang",
+      "Chenglong Wang"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "selected": false,
+    "topic": "Rubric-based reinforcement learning",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2607.18082"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2607.18082"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2607-18082,\n  title = {CriPO: Enhancing Rubric-based RL via Self-Distillation},\n  author = {Mingxuan Xia and Yuhang Yang and Chao Ye and Shuai Zhu and Shenzhi Yang and Guangcheng Zhu and Yuhang Zhang and Cheng Peng and Haobo Wang and Chenglong Wang},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2607.18082},\n  doi = {10.48550/ARXIV.2607.18082},\n  eprint = {2607.18082},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2607.18082}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-07-20"
+  },
+  {
+    "id": "oprd",
+    "title": "OPRD: On-Policy Representation Distillation",
+    "authors": [
+      "Shenzhi Yang",
+      "Guangcheng Zhu",
+      "Bowen Song",
+      "Haobo Wang",
+      "Mingxuan Xia",
+      "Xing Zheng",
+      "Yingfan Ma",
+      "Zhongqi Chen",
+      "Weiqiang Wang",
+      "Junbo Zhao",
+      "Gang Chen"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "selected": true,
+    "topic": "On-policy distillation",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2606.06021"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2606.06021"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/ShenzhiYang2000/OPRD"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2606-06021,\n  title = {{OPRD:} On-Policy Representation Distillation},\n  author = {Shenzhi Yang and Guangcheng Zhu and Bowen Song and Haobo Wang and Mingxuan Xia and Xing Zheng and Yingfan Ma and Zhongqi Chen and Weiqiang Wang and Junbo Zhao and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2606.06021},\n  doi = {10.48550/ARXIV.2606.06021},\n  eprint = {2606.06021},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2606.06021}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-06-04"
+  },
+  {
+    "id": "pivottrace",
+    "title": "Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots",
+    "authors": [
+      "Guangcheng Zhu",
+      "Shenzhi Yang",
+      "Haobo Wang",
+      "Xing Zheng",
+      "Yingfan Ma",
+      "Xuening Feng",
+      "Zhongqi Chen",
+      "Bowen Song",
+      "Weiqiang Wang",
+      "Gang Chen"
+    ],
+    "venue": "NeurIPS",
+    "year": 2026,
+    "selected": true,
+    "topic": "Data selection",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2606.04503"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2606.04503"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/gczhu/PivotTrace"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2606-04503,\n  title = {Smart Picks in the Dark: Towards Efficient {RLVR} for Reasoning via Tracing Metacognitive Pivots},\n  author = {Guangcheng Zhu and Shenzhi Yang and Haobo Wang and Xing Zheng and Yingfan Ma and Xuening Feng and Zhongqi Chen and Bowen Song and Weiqiang Wang and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2606.04503},\n  doi = {10.48550/ARXIV.2606.04503},\n  eprint = {2606.04503},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2606.04503},\n  note = {Accepted to NeurIPS 2026}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-06-03"
+  },
+  {
+    "id": "geomin",
+    "title": "GeoMin: Data-Efficient Semi-Supervised RLVR via Geometric Distribution Modeling",
+    "authors": [
+      "Guangcheng Zhu",
+      "Shenzhi Yang",
+      "Haobo Wang",
+      "Xing Zheng",
+      "Yingfan Ma",
+      "Xuening Feng",
+      "Zhongqi Chen",
+      "Kai Tang",
+      "Zhengqing Zang",
+      "Bowen Song",
+      "Weiqiang Wang",
+      "Gang Chen"
+    ],
+    "venue": "KDD",
+    "year": 2026,
+    "selected": true,
+    "topic": "Semi-supervised RLVR",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2606.04516"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2606.04516"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/gczhu/GeoMin"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2606-04516,\n  title = {GeoMin: Data-Efficient Semi-Supervised {RLVR} via Geometric Distribution Modeling},\n  author = {Guangcheng Zhu and Shenzhi Yang and Haobo Wang and Xing Zheng and Yingfan Ma and Xuening Feng and Zhongqi Chen and Kai Tang and Zhengqing Zang and Bowen Song and Weiqiang Wang and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2606.04516},\n  doi = {10.48550/ARXIV.2606.04516},\n  eprint = {2606.04516},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2606.04516},\n  note = {Accepted to KDD 2026}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-06-03"
+  },
+  {
+    "id": "olr",
+    "title": "Can LLMs Learn to Reason Robustly under Noisy Supervision?",
+    "authors": [
+      "Shenzhi Yang",
+      "Guangcheng Zhu",
+      "Bowen Song",
+      "Sharon Li",
+      "Haobo Wang",
+      "Xing Zheng",
+      "Yingfan Ma",
+      "Zhongqi Chen",
+      "Weiqiang Wang",
+      "Gang Chen"
+    ],
+    "venue": "arXiv",
+    "year": 2026,
+    "selected": false,
+    "topic": "Robust supervision",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2604.03993"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2604.03993"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/ShenzhiYang2000/OLR"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2604-03993,\n  title = {Can LLMs Learn to Reason Robustly under Noisy Supervision?},\n  author = {Shenzhi Yang and Guangcheng Zhu and Bowen Song and Sharon Li and Haobo Wang and Xing Zheng and Yingfan Ma and Zhongqi Chen and Weiqiang Wang and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2604.03993},\n  doi = {10.48550/ARXIV.2604.03993},\n  eprint = {2604.03993},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2604.03993}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2026-04-05"
+  },
+  {
+    "id": "trapo",
+    "title": "TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning",
+    "authors": [
+      "Shenzhi Yang",
+      "Guangcheng Zhu",
+      "Haobo Wang",
+      "Xing Zheng",
+      "Yingfan Ma",
+      "Zhongqi Chen",
+      "Bowen Song",
+      "Weiqiang Wang",
+      "Junbo Zhao",
+      "Gang Chen"
+    ],
+    "venue": "ICLR",
+    "year": 2026,
+    "selected": true,
+    "topic": "Semi-supervised RLVR",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/bb290ccaacc433da7ec192e6c4d909b3-Abstract-Conference.html"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2512.13106"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/ShenzhiYang2000/TRAPO"
+      }
+    ],
+    "bibtex": "@inproceedings{DBLP:conf/iclr/YangZWZMCSWZC26,\n  title = {TraPO: {A} Semi-Supervised Reinforcement Learning Framework for Boosting {LLM} Reasoning},\n  author = {Shenzhi Yang and Guangcheng Zhu and Haobo Wang and Xing Zheng and Yingfan Ma and Zhongqi Chen and Bowen Song and Weiqiang Wang and Junbo Zhao and Gang Chen},\n  booktitle = {The Fourteenth International Conference on Learning Representations, {ICLR} 2026, Rio de Janeiro, Brazil, April 23-27, 2026},\n  year = {2026},\n  publisher = {proceedings.iclr.cc},\n  eprint = {2512.13106},\n  archivePrefix = {arXiv},\n  url = {https://proceedings.iclr.cc/paper_files/paper/2026/hash/bb290ccaacc433da7ec192e6c4d909b3-Abstract-Conference.html}\n}\n",
+    "equal_contributors": [
+      "Shenzhi Yang",
+      "Guangcheng Zhu"
+    ],
+    "sort_date": "2025-12-15"
+  },
+  {
+    "id": "maral",
+    "title": "Large Margin Representation Learning for Robust Cross-lingual Named Entity Recognition",
+    "authors": [
+      "Guangcheng Zhu",
+      "Ruixuan Xiao",
+      "Haobo Wang",
+      "Zhen Zhu",
+      "Gengyu Lyu",
+      "Junbo Zhao"
+    ],
+    "venue": "ACL",
+    "year": 2025,
+    "selected": true,
+    "topic": "Cross-lingual NLP",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://aclanthology.org/2025.acl-long.215/"
+      },
+      {
+        "label": "pdf",
+        "url": "https://aclanthology.org/2025.acl-long.215.pdf"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/gczhu/MARAL"
+      }
+    ],
+    "bibtex": "@inproceedings{DBLP:conf/acl/ZhuXWZLZ25,\n  title = {Large Margin Representation Learning for Robust Cross-lingual Named Entity Recognition},\n  author = {Guangcheng Zhu and Ruixuan Xiao and Haobo Wang and Zhen Zhu and Gengyu Lyu and Junbo Zhao},\n  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), {ACL} 2025, Vienna, Austria, July 27 - August 1, 2025},\n  year = {2025},\n  pages = {4270--4291},\n  publisher = {Association for Computational Linguistics},\n  doi = {10.18653/V1/2025.ACL-LONG.215},\n  url = {https://doi.org/10.18653/v1/2025.acl-long.215}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2025-07"
+  },
+  {
+    "id": "realhitbench",
+    "title": "RealHiTBench: A Comprehensive Realistic Hierarchical Table Benchmark for Evaluating LLM-Based Table Analysis",
+    "authors": [
+      "Pengzuo Wu",
+      "Yuhang Yang",
+      "Guangcheng Zhu",
+      "Chao Ye",
+      "Hong Gu",
+      "Xu Lu",
+      "Ruixuan Xiao",
+      "Bowen Bao",
+      "Yijing He",
+      "Liangyu Zha",
+      "Wentao Ye",
+      "Junbo Zhao",
+      "Haobo Wang"
+    ],
+    "venue": "Findings of ACL",
+    "year": 2025,
+    "selected": false,
+    "topic": "Structured data",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://aclanthology.org/2025.findings-acl.371/"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2506.13405"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/cspzyy/RealHiTBench"
+      }
+    ],
+    "bibtex": "@inproceedings{DBLP:conf/acl/WuYZYGLXBHZY0025,\n  title = {RealHiTBench: {A} Comprehensive Realistic Hierarchical Table Benchmark for Evaluating LLM-Based Table Analysis},\n  author = {Pengzuo Wu and Yuhang Yang and Guangcheng Zhu and Chao Ye and Hong Gu and Xu Lu and Ruixuan Xiao and Bowen Bao and Yijing He and Liangyu Zha and Wentao Ye and Junbo Zhao and Haobo Wang},\n  booktitle = {Findings of the Association for Computational Linguistics, {ACL} 2025, Vienna, Austria, July 27 - August 1, 2025},\n  year = {2025},\n  volume = {{ACL} 2025},\n  pages = {7105--7137},\n  publisher = {Association for Computational Linguistics},\n  doi = {10.18653/V1/2025.FINDINGS-ACL.371},\n  eprint = {2506.13405},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.18653/v1/2025.findings-acl.371}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2025-06"
+  },
+  {
+    "id": "tablegpt2",
+    "title": "TableGPT2: A Large Multimodal Model with Tabular Data Integration",
+    "authors": [
+      "Aofeng Su",
+      "Aowen Wang",
+      "Chao Ye",
+      "Chen Zhou",
+      "Ga Zhang",
+      "Gang Chen",
+      "Guangcheng Zhu",
+      "Haobo Wang",
+      "Haokai Xu",
+      "Hao Chen",
+      "Haoze Li",
+      "Haoxuan Lan",
+      "Jiaming Tian",
+      "Jing Yuan",
+      "Junbo Zhao",
+      "Junlin Zhou",
+      "Kaizhe Shou",
+      "Liangyu Zha",
+      "Lin Long",
+      "Liyao Li",
+      "Pengzuo Wu",
+      "Qi Zhang",
+      "Qingyi Huang",
+      "Saisai Yang",
+      "Tao Zhang",
+      "Wentao Ye",
+      "Wufang Zhu",
+      "Xiaomeng Hu",
+      "Xijun Gu",
+      "Xinjie Sun",
+      "Xiang Li",
+      "Yuhang Yang",
+      "Zhiqing Xiao"
+    ],
+    "venue": "arXiv",
+    "year": 2024,
+    "selected": false,
+    "topic": "Structured data",
+    "links": [
+      {
+        "label": "paper",
+        "url": "https://arxiv.org/abs/2411.02059"
+      },
+      {
+        "label": "pdf",
+        "url": "https://arxiv.org/pdf/2411.02059"
+      },
+      {
+        "label": "code",
+        "url": "https://github.com/tablegpt/tablegpt-agent"
+      }
+    ],
+    "bibtex": "@article{DBLP:journals/corr/abs-2411-02059,\n  title = {TableGPT2: {A} Large Multimodal Model with Tabular Data Integration},\n  author = {Aofeng Su and Aowen Wang and Chao Ye and Chen Zhou and Ga Zhang and Gang Chen and Guangcheng Zhu and Haobo Wang and Haokai Xu and Hao Chen and Haoze Li and Haoxuan Lan and Jiaming Tian and Jing Yuan and Junbo Zhao and Junlin Zhou and Kaizhe Shou and Liangyu Zha and Lin Long and Liyao Li and Pengzuo Wu and Qi Zhang and Qingyi Huang and Saisai Yang and Tao Zhang and Wentao Ye and Wufang Zhu and Xiaomeng Hu and Xijun Gu and Xinjie Sun and Xiang Li and Yuhang Yang and Zhiqing Xiao},\n  journal = {CoRR},\n  year = {2024},\n  volume = {abs/2411.02059},\n  doi = {10.48550/ARXIV.2411.02059},\n  eprint = {2411.02059},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2411.02059}\n}\n",
+    "equal_contributors": [],
+    "sort_date": "2024-11"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "name": "Guangcheng Zhu",
+  "name_zh": "祝广程",
+  "email": "zhuguangcheng@zju.edu.cn",
+  "github": "https://github.com/gczhu",
+  "url": "https://gczhu.github.io/",
+  "portrait": "assets/portrait.jpg",
+  "scholar": "https://scholar.google.com/citations?user=R2xSWZ0AAAAJ",
+  "role": "Master’s student",
+  "institution": "Zhejiang University",
+  "department": "College of Computer Science and Technology",
+  "advisors": [
+    {
+      "name": "Haobo Wang",
+      "url": "https://hbzju.github.io/"
+    },
+    {
+      "name": "Tianlei Hu",
+      "url": null
+    }
+  ],
+  "research": "My research focuses on data-efficient post-training for large language models. I aim to build stronger models with less training data and fewer human annotations. My current interests include data selection, semi-supervised reinforcement learning, and fine-grained supervision.",
+  "education": [
+    {
+      "period": "2025 – present",
+      "degree": "Master’s studies",
+      "institution": "Zhejiang University",
+      "department": "College of Computer Science and Technology"
+    },
+    {
+      "period": "2021 – 2025",
+      "degree": "Undergraduate studies",
+      "institution": "Zhejiang University",
+      "department": "College of Computer Science and Technology"
+    }
+  ],
+  "research_highlights": [
+    "data-efficient post-training",
+    "data selection",
+    "semi-supervised reinforcement learning",
+    "fine-grained supervision"
+  ],
+  "portrait_alt": "Illustrated avatar of a white cat resting above a red-haired character",
+  "updated": "November 2026"
+}
