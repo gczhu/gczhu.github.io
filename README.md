@@ -51,7 +51,7 @@ python3 -m http.server 8000
 - TraPO、RealHiTBench 以所提供的会议记录作为主要引用，PDF 链接使用 arXiv 版本。
 - MARAL 的代码链接根据论文首页核实为 https://github.com/gczhu/MARAL 。
 - PivotTrace 的 arXiv 页面明确标注接收于 NeurIPS 2026，页面已更新会议标注；BibTeX 保留 arXiv 记录并添加接收说明。
-- GeoMin 由本人确认接收于 KDD 2026，页面已更新；BibTeX 保留 arXiv 记录并添加接收说明。
+- GeoMin 由本人确认接收于 KDD 2027，页面已更新；BibTeX 保留 arXiv 记录并添加接收说明。
 - CriPO 采用 arXiv v4 的最新题目和作者名单（末位作者为 Chenglong Wang）。
 - CoCA 的共同一作标记来自论文正文；TraPO 的 Shenzhi Yang 与 Guangcheng Zhu 标注共同一作，由本人确认。
 - 其他未从论文来源核实会议接收状态的工作保留 arXiv 标注。

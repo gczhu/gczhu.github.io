@@ -262,7 +262,7 @@
       "Gang Chen"
     ],
     "venue": "KDD",
-    "year": 2026,
+    "year": 2027,
     "selected": true,
     "topic": "Semi-supervised RLVR",
     "links": [
@@ -279,7 +279,7 @@
         "url": "https://github.com/gczhu/GeoMin"
       }
     ],
-    "bibtex": "@article{DBLP:journals/corr/abs-2606-04516,\n  title = {GeoMin: Data-Efficient Semi-Supervised {RLVR} via Geometric Distribution Modeling},\n  author = {Guangcheng Zhu and Shenzhi Yang and Haobo Wang and Xing Zheng and Yingfan Ma and Xuening Feng and Zhongqi Chen and Kai Tang and Zhengqing Zang and Bowen Song and Weiqiang Wang and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2606.04516},\n  doi = {10.48550/ARXIV.2606.04516},\n  eprint = {2606.04516},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2606.04516},\n  note = {Accepted to KDD 2026}\n}\n",
+    "bibtex": "@article{DBLP:journals/corr/abs-2606-04516,\n  title = {GeoMin: Data-Efficient Semi-Supervised {RLVR} via Geometric Distribution Modeling},\n  author = {Guangcheng Zhu and Shenzhi Yang and Haobo Wang and Xing Zheng and Yingfan Ma and Xuening Feng and Zhongqi Chen and Kai Tang and Zhengqing Zang and Bowen Song and Weiqiang Wang and Gang Chen},\n  journal = {CoRR},\n  year = {2026},\n  volume = {abs/2606.04516},\n  doi = {10.48550/ARXIV.2606.04516},\n  eprint = {2606.04516},\n  archivePrefix = {arXiv},\n  url = {https://doi.org/10.48550/arXiv.2606.04516},\n  note = {Accepted to KDD 2027}\n}\n",
     "equal_contributors": [],
     "sort_date": "2026-06-03"
   },
